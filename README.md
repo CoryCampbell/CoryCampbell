@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @CoryCampbell
-- 👀 I’m interested in expanding my software engineering skills and knowledge!
-- 🌱 I’m currently learning Full-Stack Development at App Academy
-- 💞️ I’m looking to collaborate on new projects for my portfolio and expanding my programming network of friends!
-- 📫 How to reach me: corycampbell20@yahoo.com
+Hi, I’m Cory Campbell! I'm from Weatherford, TX and I’m currently studying Full-Stack Development at App Academy! 
+I’m looking forward to collaborating on new projects and expanding my programming network of friends!
+I’m interested in all aspects of software engineering, website development, computer science, game development, music production, and other similar types of fields.
+Currently we are learning how to implement AWS into React projects!
+
+Interests:
+- 8 years of Music Production/Engineering 🎧
+- Video Game Enthusiast 🎮
+- Disc Golf Slinger 🌳
+- Vikings Fan 🏈
+
+Experience using:
+- Javascript/HTML/CSS/Python/JSX
+- Express/SQL/Sqlite/SQLAlchemy/React/Docker/Flask/AWS
+
+How to reach me:
+- email: corycampbell20@yahoo.com
+- github: @CoryCampbell
+- discord: monkeydcory
 
 <!---
 CoryCampbell/CoryCampbell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
