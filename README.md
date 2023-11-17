@@ -15,7 +15,7 @@ Interests:
 
 Experience using:
   - Javascript/HTML/CSS/Python/JSX
-  - Express/SQL/Sqlite/SQLAlchemy/React/Docker/Flask/AWS
+  - Express/SQL/Sqlite/SQLAlchemy/React/Redux/Docker/Flask/AWS
   - VSCode/Postman/Postbird/Git/WSL/Docker Desktop
 
 How to reach me:
