@@ -9,6 +9,7 @@ Currently we are learning how to implement AWS into React projects!
 
 Interests:
   - 8 years of Music Production/Engineering 🎧
+  - Painter/Digital Art 🎨
   - Video Game Enthusiast 🎮
   - Disc Golf Slinger 🌳
   - Vikings Fan 🏈
