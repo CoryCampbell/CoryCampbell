@@ -15,9 +15,12 @@ Interests:
   - Vikings Fan 🏈
 
 Experience using:
-  - Javascript/HTML/CSS/Python/JSX
-  - Express/SQL/Sqlite/SQLAlchemy/React/Redux/Docker/Flask/AWS
-  - VSCode/Postman/Postbird/Git/WSL/Docker Desktop
+  - Javascript / HTML / CSS / Python / JSX
+  - Express / SQL / Sqlite / SQLAlchemy / React / Redux / Docker / Flask / AWS
+  - VSCode / Postman / Postbird / Git / WSL / Docker Desktop
+  - Adobe Photoshop / Illustrator / Gimp 2.1 / Blender / DaVinci Resolve
+  - Fl Studio / Serato / Pro Tools
+  - Unity
 
 How to reach me:
   - email: corycampbell20@yahoo.com
