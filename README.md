@@ -7,9 +7,10 @@ computer science, game development, music production, and other similar types of
   
 Currently we are learning how to implement AWS into React projects!
 
-Interests:
+About Me:
   - 8 years of Music Production/Engineering 🎧
   - Painter/Digital Art 🎨
+  - Aspiring Web Developer 👨‍💻
   - Video Game Enthusiast 🎮
   - Disc Golf Slinger 🌳
   - Vikings Fan 🏈
