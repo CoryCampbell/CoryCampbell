@@ -5,7 +5,9 @@ I’m looking forward to collaborating on new projects and expanding my programm
 I’m interested in all aspects of software engineering, website development, 
 computer science, game development, music production, and other similar types of fields.
   
-Currently we are learning how to implement AWS into React projects!
+Currently we are getting our online presences ready for the job search!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corycampbell)](https://github.com/anuraghazra/github-readme-stats)
 
 About Me:
   - Full Stack Software Engineer 👨‍💻
