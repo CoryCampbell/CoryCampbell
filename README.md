@@ -30,8 +30,6 @@ How to reach me:
   - github: @CoryCampbell
   - discord: monkeydcory
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corycampbell)](https://github.com/anuraghazra/github-readme-stats)
-
 <!---
 CoryCampbell/CoryCampbell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
