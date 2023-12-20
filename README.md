@@ -7,10 +7,10 @@ computer science, game development, music production, and other similar types of
   
 Currently we are getting our online presences ready for the job search!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corycampbell)](https://github.com/anuraghazra/github-readme-stats)
+
 
 About Me:
-  - Full Stack Software Engineer 👨‍💻
+  - Software Engineer 👨‍💻
   - 8 years of Music Production/Engineering 🎧
   - Painter/Digital Art 🎨
   - Video Game Enthusiast 🎮
@@ -29,6 +29,8 @@ How to reach me:
   - email: corycampbell20@yahoo.com
   - github: @CoryCampbell
   - discord: monkeydcory
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corycampbell)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 CoryCampbell/CoryCampbell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
