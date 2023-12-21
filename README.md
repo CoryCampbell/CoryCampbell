@@ -29,6 +29,7 @@ About Me:
 
 How to reach me:
   - email: corycampbell20@yahoo.com
+  - LinkedIn: www.linkedin.com/in/cory-campbell-67694b2a5
   - github: @CoryCampbell
   - discord: monkeydcory
 
