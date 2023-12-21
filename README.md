@@ -19,7 +19,7 @@ About Me:
 
 Experience using:
   - Javascript / HTML / CSS / Python / JSX
-  - Express / SQL / Sqlite / SQLAlchemy / React / Redux / Docker / Flask / AWS
+  - Express / SQL / ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) / SQLAlchemy / React / Redux / Docker / Flask / AWS
   - VSCode / Postman / Postbird / Git / WSL / Docker Desktop
   - Adobe Photoshop / Illustrator / Gimp 2.1 / Blender / DaVinci Resolve
   - Fl Studio / Serato / Pro Tools
