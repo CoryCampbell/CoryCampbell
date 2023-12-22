@@ -31,7 +31,7 @@ How to reach me:
   - email: corycampbell20@yahoo.com
   - LinkedIn: www.linkedin.com/in/cory-campbell-67694b2a5
   - github: @CoryCampbell
-  - discord: monkeydcory
+  - ![Discord](https://a11ybadges.com/badge?logo=discord) monkeydcory
 
 <!---
 CoryCampbell/CoryCampbell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
