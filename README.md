@@ -28,10 +28,9 @@ About Me:
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 How to reach me:
-  - email: corycampbell20@yahoo.com
+  - Email: corycampbell20@yahoo.com
   - LinkedIn: www.linkedin.com/in/cory-campbell-67694b2a5
-  - github: @CoryCampbell
-  - ![Discord](https://a11ybadges.com/badge?logo=discord) monkeydcory
+  - Discord: monkeydcory
 
 <!---
 CoryCampbell/CoryCampbell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
