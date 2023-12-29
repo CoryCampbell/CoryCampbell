@@ -50,7 +50,7 @@ Study Habits
 How to reach me:
   - Email: corycampbell20@yahoo.com
   - LinkedIn: www.linkedin.com/in/cory-campbell-67694b2a5
-  - Discord: monkeydcory
+  - Discord: corythedev
 
 <!---
 CoryCampbell/CoryCampbell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
