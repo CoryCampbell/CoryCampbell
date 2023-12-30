@@ -4,7 +4,7 @@ I'm a Software Engineer from Weatherford, TX and a Graduate of App Academy!
 
 I’m interested in all aspects of Software Engineering, Web Development, 
 Computer Science, Game Development, Music Production, and similar types of fields.
-I’m looking forward to collaborating on new projects and expanding my programming network of friends!
+I’m looking forward to collaborating on new projects and expanding my network of friends!
 
 Feel free to reach out to me with any questions!
 
