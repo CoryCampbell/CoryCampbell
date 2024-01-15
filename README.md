@@ -12,7 +12,7 @@ Feel free to reach out to me with any questions!
 
 About Me:
   - Software Engineer 👨‍💻
-  - 8 years of Music Production/Engineering 🎧
+  - 8 years of Music Production/Audio Engineering 🎧
   - Painter/Digital Art 🎨
   - Video Game Enthusiast 🎮
   - Disc Golf Slinger 🌳
