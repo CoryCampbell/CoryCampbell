@@ -48,7 +48,7 @@ Study Habits
 
 
 How to reach me:
-  - Email: corycampbell20@yahoo.com
+  - Email: corythedev@gmail.com
   - LinkedIn: www.linkedin.com/in/cory-campbell-67694b2a5
   - Discord: corythedev
 
