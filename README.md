@@ -16,7 +16,7 @@ About Me:
   - Painter/Digital Art 🎨
   - Video Game Enthusiast 🎮
   - Disc Golf Slinger 🌳
-  - Vikings Fan 🏈
+  - Minnesota Vikings Fan 🏈
 
 
 
